@@ -4,7 +4,7 @@ which updates every 1000ms,
 to provide you with a code that is always different with the current time! 
 # Cool!
 
-#(Okay, you could always check the time anywhere on your computer, but it's cool to scan QR codes, isn't it?)
+# (Okay, you could always check the time anywhere on your computer, but it's cool to scan QR codes, isn't it?)
 
 # DESKTOP MODE
 ![](Preview-App.gif)
