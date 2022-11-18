@@ -9,7 +9,7 @@ to provide you with a code that is always different with the current time!
 # DESKTOP MODE
 ![](Preview-App.gif)
 
-To develop this little application I used Vite / Vanilla JS and imported https://www.npmjs.com/package/qrcode.
+To develop this SIMPLE application I used Vite / Vanilla JS and imported https://www.npmjs.com/package/qrcode.
 
 
 
