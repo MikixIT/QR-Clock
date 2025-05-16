@@ -1,16 +1,21 @@
-# QR-Clock
-is a simple and powerfull application where we can know what time it is at any time through a qr code, 
-which updates every 1000ms, 
-to provide you with a code that is always different with the current time! 
-# Cool!
+# QR-Clock 🕒
 
-# (Okay, you could always check the time anywhere on your computer, but it's cool to scan QR codes, isn't it?)
+A simple yet powerful app that shows the current time — encoded in a QR code that updates every second. 
+ 
+Yes, you could just check the clock…
+But scanning QR codes is way cooler, right? 😎
 
-# DESKTOP MODE
-![](Preview-App.gif)
+🕒 What it does
+	•	Displays a QR code with the current time
+	•	QR updates every 1000ms (1s) with the new time
+	•	Built with Vite, Vanilla JavaScript, and the qrcode package
+	•	Works on desktop
 
-To develop this SIMPLE application I used Vite / Vanilla JS and imported https://www.npmjs.com/package/qrcode.
+🔧 Tech Stack
+	•	Vite
+	•	JavaScript (Vanilla)
+	•	QRCode package
 
+💡 Why?
 
-
-
+Just for fun — and because scanning time as a QR code is oddly satisfying.
